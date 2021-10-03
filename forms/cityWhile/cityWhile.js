@@ -13,5 +13,5 @@ while (wantToContinue) {
   
   while (i < city.length) {
     console.log(city[i].toLowerCase())
-    i = + 1
+    i =  +  1
     }
