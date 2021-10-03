@@ -1,4 +1,4 @@
-
+/*
 let wantToContinue = true
 let city = []
 let enterCity = ""
@@ -15,3 +15,4 @@ while (wantToContinue) {
     console.log(city[i].toLowerCase())
     i =  +  1 
     }
+    */
