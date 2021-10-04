@@ -1,3 +1,4 @@
+/*
 password1 = prompt('enter a password')
 password2 = prompt('re-enter your password')
 
@@ -9,4 +10,5 @@ function compare(pass1,pass2) {
     }}
     
     let passCompare = compare(password1, password2)
-    
+  
+  */
