@@ -1,3 +1,4 @@
+
 let columns = prompt('How many asterisks 1 to 10')
 
 let rows = prompt('How many lines 1 to 10?')
